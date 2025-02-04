@@ -1,4 +1,15 @@
 # Social Media API - WIP
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Joi](https://img.shields.io/badge/Joi-00ADD8?style=for-the-badge&logo=auth0&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-007ACC?style=for-the-badge&logo=auth0&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-339933?style=for-the-badge&logo=gmail&logoColor=white)
+![Helmet](https://img.shields.io/badge/Helmet-000000?style=for-the-badge&logo=helmet&logoColor=white)
+![Cors](https://img.shields.io/badge/Cors-000000?style=for-the-badge&logo=cors&logoColor=white)
 
 Este é um projeto de estudo voltado para a implementação de autenticação JWT e uso de bancos de dados não relacionais como o MongoDB. A API permite o cadastro, login e logout de usuários, além de funcionalidades relacionadas a postagens.
 
@@ -40,20 +51,6 @@ Postagens
 - [ ] Implementação da lógica de criação de postagens.
 - [ ] Validação dos dados de entrada para postagens.
 - [ ] Associação de postagens com usuários autenticados.
-
-## Tecnologias Utilizadas
-
-- Node.js
-- Express.js
-- TypeScript
-- MongoDB
-- Mongoose
-- JWT (JSON Web Token)
-- Joi (validação)
-- Bcrypt (hashing de senhas)
-- Nodemailer (envio de emails)
-- Helmet (segurança)
-- Cors (controle de acesso)
 
 ## Endpoints
 
