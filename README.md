@@ -127,5 +127,5 @@ Postagens
     ```sh
     npm run dev
     ou
-    npm run watch (para monitorar alterações no código e atualizar o projeto)
+    npm run watch (para monitorar alterações no código ao atualizar o projeto)
     ```
